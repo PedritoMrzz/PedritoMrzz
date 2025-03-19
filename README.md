@@ -47,9 +47,15 @@ Here are some ideas to get you started:
       <a href="https://"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="ADOBE PHOTOSHOP"></a>
       <a href="https://"><img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
   </div>
+  
+  <!--DISCORD-->
+  <div align = "center">
+  ---------------------------------------------------------------------------------------------------------------
+  <h4 align = "center">🌐JOIN MY DISCORD GROUP:</h4>
+    
+  [![Community](https://dcbadge.limes.pink/api/server/https://discord.gg/ZpMjFAhz)](https://discord.gg/ZpMjFAhz)
 
-
-
+  </div>
 
 <p>
 <p align="center">
