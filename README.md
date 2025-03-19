@@ -2,7 +2,7 @@
 <h1 align="center">Hi ,✨I'm Pedro Muñoz✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--GIF DINO-->
 <div align = "center">
- <a href="https://"><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif" alt="DINO"></a>
+ <a href="https://"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="45"></a>
 </div>
 
 
@@ -25,7 +25,7 @@
 <p>
  <hr>
 <!--Imagen Gatito Pulpo-->
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='140'>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png' width='140'>
  
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
