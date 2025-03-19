@@ -5,8 +5,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
+<!--ABOUT ME-->
 <h4 align="center">Hi, I'm Pedro Muñoz Junior Developer. I'm passionate about technology and love to learn new things. I consider myself a curious person with a strong desire to contribute. I enjoy programming, designing, and finding creative solutions. I'm social and enthusiastic, and I love the idea of working in a team, learning from others, and sharing my passion for technology.</h4>
 <br>
+
+<!--REDES SOCIALES-->
+<p align="center">
+<a href="https://www.instagram.com/peter_mzzr/" target="_blank">
+  <img align="center" alt="Pedro Muñoz | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:pedroeli661@gmail.com" >
+  <img align="center" alt="Pedro Muñoz | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<p>
 <!--Imagen Gatito Pulpo-->
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='140'>
 
