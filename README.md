@@ -25,7 +25,7 @@
 <p>
  <hr>
 <!--Imagen Gatito Pulpo-->
-<img align='right' src='https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png' width='140'>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif' width='200'>
  
 Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
